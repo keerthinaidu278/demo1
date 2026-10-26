@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Keerthi naidu
 
+=======
+keerthiiii
+>>>>>>> new1
